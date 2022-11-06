@@ -1,0 +1,23 @@
+.sidebar{
+    width: 20%;
+    height: 780px;
+    background-color: rgb(92, 241, 62);
+    margin-top: -20px;
+    text-align: center;
+}
+h2{
+    color: blue;
+    
+}
+.logout{
+    padding-top: 600px;
+}
+#b-logout{
+    padding: 10px;
+    font-weight: bold;
+    font-size: large;
+}
+#b-logout:hover{
+    color: white;
+    background-color: blue;
+}

@@ -1,0 +1,14 @@
+#header1{
+    border: 6px solid rgb(48, 177, 31);
+    width: auto;
+    height: 90px;
+}
+
+.paraUser{
+    float:right;
+    /* justify-content: space-between; */
+    margin-top: 10px;
+    margin-right: 10px;
+    font-size: x-large;
+    font-weight: bolder;
+}

@@ -1,0 +1,23 @@
+#userTable{
+  float: right;
+  margin-top: -700px;
+  margin-right: 40px;
+  
+  
+}
+.itemrow{
+    border: 1px solid black;
+    width:850px;
+
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    height: 50px;
+  }
+  .addAbtn{
+    float: right;
+    margin-top: -40px;
+  }
+  
